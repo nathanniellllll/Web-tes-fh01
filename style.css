@@ -11,8 +11,8 @@ content://com.android.providers.downloads.documents/document/404@import url('htt
 .avatar img{border-radius:50%}
 .photo{overflow:visible}
 .photo img {
-    width: min(280px, 100%);
-    height: min(280px, 100%);
+    width: min(410px, 90%);
+    height: min(410px, 90%);
     object-fit: contain;
     object-position: center;
     transform: none;
